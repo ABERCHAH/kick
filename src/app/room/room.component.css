@@ -1,0 +1,11 @@
+.box{
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.room{
+    height: 600px;
+    width: 1000px;
+}
